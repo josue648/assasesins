@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align-last: center;
+}
+body{
+    background-color: black;
+    color:aliceblue;
+}
+h1{
+    text-align: center;
+    padding: 10 px;
+}
+img{
+    border: 30px;
+    transition: transform 1.5s;
+}
+img:hover{
+    transform: scale(2,2);
+}
